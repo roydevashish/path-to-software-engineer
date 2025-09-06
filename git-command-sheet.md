@@ -166,3 +166,10 @@ logs/
 *.notes
 pattern*/
 ```
+
+---
+
+# References
+- [Complete Git & GitHub Tutorial - by Piyush Garg](https://www.youtube.com/watch?v=TsSjgkfAeJ0)
+- [Complete Git and GitHub Tutorial for Beginners - by Piyush Garg](https://www.youtube.com/watch?v=RDxQEzXN8AU)
+- [Complete Git & GitHub Tutorial | Branching And Merging - by Piyush Garg](https://www.youtube.com/watch?v=LF-rK5yPzVM)
